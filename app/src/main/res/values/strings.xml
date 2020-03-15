@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kaspresso Testing Demo</string>
+    <string name="hint_enter_your_marks">Enter Your Marks</string>
+    <string name="submit">Submit</string>
+</resources>
